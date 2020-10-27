@@ -34,7 +34,7 @@ For more visit [jin.tmpdcx.cn](https://jin.tmpdcx.cn)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2020 - 26 October, 2020
+Week: 19 October, 2020 - 27 October, 2020
 
 Markdown   3 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.99 % 
 Go         999 hrs 9 mins  ███████████████████░░░░░░   80.10 % 
