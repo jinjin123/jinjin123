@@ -37,7 +37,7 @@ For more visit [jin.tmpdcx.cn](https://jin.tmpdcx.cn)
 Week: 19 October, 2020 - 26 October, 2020
 
 Markdown   3 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.99 % 
-Go         3 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.10 % 
+Go         999 hrs 9 mins  ███████████████████░░░░░░   80.10 % 
 Makefile   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 Bash       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 YAML       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
