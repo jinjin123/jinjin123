@@ -36,8 +36,9 @@ For more visit [jin.tmpdcx.cn](https://jin.tmpdcx.cn)
 ```text
 Week: 19 October, 2020 - 27 October, 2020
 
-Markdown   3 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.99 % 
-Go         999 hrs 9 mins  ███████████████████░░░░░░   80.10 % 
+Markdown   3 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   14.99 % 
+Go         999 hrs 9 mins  ███████████░░░░░░░░░░░░░░   30.10 % 
+Php        666 hrs 6 mins  ████████████░░░░░░░░░░░░░   50.10 % 
 Makefile   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 Bash       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 YAML       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
@@ -62,7 +63,7 @@ YAML       34 mins         █▒░░░░░░░░░░░░░░░�
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jinjin123&show_icons=true&include_all_commits=true&theme=gruvbox" alt="jinjin123's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jinjin123&hide=stars&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=false" alt="jinjin123's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
