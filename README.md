@@ -2,16 +2,8 @@
 For more visit [jin.tmpdcx.cn](http://jin.tmpdcx.cn:5004)
 
 <!--START_SECTION:waka-->
-```text
-Week: 19 October, 2020 - 27 October, 2020
 
-Markdown   3 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   14.99 % 
-Go         999 hrs 9 mins  ███████████░░░░░░░░░░░░░░   30.10 % 
-python     666 hrs 6 mins  ████████████░░░░░░░░░░░░░   50.10 % 
-Makefile   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Bash       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-YAML       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-```
+
 <!--END_SECTION:waka-->
 **Languages and Tools:**  
 
