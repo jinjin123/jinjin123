@@ -2,8 +2,82 @@
 For more visit [jin.tmpdcx.cn](http://jin.tmpdcx.cn:5004)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 73 Contributions in the Year 2022
+ > 
+> 📦 1.7 MB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 430 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    99 commits     █████████░░░░░░░░░░░░░░░░   36.4% 
+🌆 Daytime    124 commits    ███████████░░░░░░░░░░░░░░   45.59% 
+🌃 Evening    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   19.85% 
+Tuesday      32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Wednesday    62 commits     █████░░░░░░░░░░░░░░░░░░░░   22.79% 
+Thursday     49 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
+Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+Saturday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
+Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19%
+
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.31% 
+Python                   12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+PHP                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jinjin123/jinjin123/main/charts/bar_graph.png) 
+
+
+ Last Updated on 22/06/2022 23:18:15 UTC
 <!--END_SECTION:waka-->
 **Languages and Tools:**  
 
