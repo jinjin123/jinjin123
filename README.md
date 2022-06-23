@@ -4,7 +4,7 @@ For more visit [jin.tmpdcx.cn](http://jin.tmpdcx.cn:5004)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,7 +77,7 @@ Shell                    5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jinjin123/jinjin123/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/06/2022 23:18:15 UTC
+ Last Updated on 23/06/2022 05:11:14 UTC
 <!--END_SECTION:waka-->
 **Languages and Tools:**  
 
