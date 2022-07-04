@@ -4,38 +4,38 @@ For more visit [jin.tmpdcx.cn](http://jin.tmpdcx.cn:5004)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 122 Contributions in the Year 2022
+> 🏆 129 Contributions in the Year 2022
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 431 Public Repositories 
+> 📜 432 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    115 commits    █████████░░░░░░░░░░░░░░░░   36.74% 
-🌆 Daytime    145 commits    ███████████░░░░░░░░░░░░░░   46.33% 
-🌃 Evening    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
+🌞 Morning    119 commits    █████████░░░░░░░░░░░░░░░░   38.02% 
+🌆 Daytime    144 commits    ███████████░░░░░░░░░░░░░░   46.01% 
+🌃 Evening    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
+Monday       63 commits     █████░░░░░░░░░░░░░░░░░░░░   20.13% 
 Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-Wednesday    62 commits     █████░░░░░░░░░░░░░░░░░░░░   19.81% 
+Wednesday    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.17% 
 Thursday     55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
 Friday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-Saturday     17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
+Saturday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.47% 
 Sunday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42%
 
 ```
@@ -77,7 +77,7 @@ Shell                    5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jinjin123/jinjin123/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/07/2022 05:03:13 UTC
+ Last Updated on 04/07/2022 05:22:43 UTC
 <!--END_SECTION:waka-->
 **Languages and Tools:**  
 
