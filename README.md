@@ -1,5 +1,5 @@
 
-For more visit [jin.tmpdcx.cn](http://jin.tmpdcx.cn:5004)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
