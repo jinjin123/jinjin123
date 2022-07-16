@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,7 +77,7 @@ Shell                    6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jinjin123/jinjin123/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/07/2022 05:40:31 UTC
+ Last Updated on 16/07/2022 05:07:23 UTC
 <!--END_SECTION:waka-->
 **Languages and Tools:**  
 
