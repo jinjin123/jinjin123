@@ -41,24 +41,7 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
+![Commit](https://activity-graph.herokuapp.com/graph?username=jinjin123&theme=github-light&custom_title=%E6%9C%80%E8%BF%9130%E5%A4%A9%E7%9A%84%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95)
 
 **I Mostly Code in JavaScript** 
 
