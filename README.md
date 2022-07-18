@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 254 Contributions in the Year 2022
+> 🏆 258 Contributions in the Year 2022
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
@@ -21,27 +21,44 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    144 commits    ████████░░░░░░░░░░░░░░░░░   34.87% 
-🌆 Daytime    160 commits    █████████░░░░░░░░░░░░░░░░   38.74% 
-🌃 Evening    104 commits    ██████░░░░░░░░░░░░░░░░░░░   25.18% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
+🌞 Morning    144 commits    ████████░░░░░░░░░░░░░░░░░   34.7% 
+🌆 Daytime    159 commits    █████████░░░░░░░░░░░░░░░░   38.31% 
+🌃 Evening    107 commits    ██████░░░░░░░░░░░░░░░░░░░   25.78% 
+🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       83 commits     █████░░░░░░░░░░░░░░░░░░░░   20.1% 
-Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
-Wednesday    92 commits     █████░░░░░░░░░░░░░░░░░░░░   22.28% 
-Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
-Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
-Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
-Sunday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.32%
+Monday       83 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
+Wednesday    90 commits     █████░░░░░░░░░░░░░░░░░░░░   21.69% 
+Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
+Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
+Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.58% 
+Sunday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22%
 
 ```
 
 
-![Commit](https://activity-graph.herokuapp.com/graph?username=jinjin123&theme=github-light&custom_title=%E6%9C%80%E8%BF%9130%E5%A4%A9%E7%9A%84%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95)
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -60,7 +77,7 @@ Shell                    6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jinjin123/jinjin123/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022 05:07:32 UTC
+ Last Updated on 18/07/2022 05:24:19 UTC
 <!--END_SECTION:waka-->
 **Languages and Tools:**  
 
