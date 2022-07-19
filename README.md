@@ -79,6 +79,12 @@ Shell                    6 repos             ██░░░░░░░░░�
 
  Last Updated on 18/07/2022 05:24:19 UTC
 <!--END_SECTION:waka-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jinjin123&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinjin123&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jinjin123&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinjin123&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jinjin123&theme=github)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
